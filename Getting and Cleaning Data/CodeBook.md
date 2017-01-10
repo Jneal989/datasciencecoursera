@@ -12,85 +12,85 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ##Features
 The following features were selected from a total number 561 features and filters down to this list because they are the mean or std of thier measurment. The variable in the dataset is then the mean of every observation for each subject for each activity the subject completed. 
-*tBodyAccMeanX
-*tBodyAccMeanY
-*tBodyAccMeanZ
-*tBodyAccStdX
-*tBodyAccStdY
-*tBodyAccStdZ
-*tGravityAccMeanX
-*tGravityAccMeanY
-*tGravityAccMeanZ
-*tGravityAccStdX
-*tGravityAccStdY
-*tGravityAccStdZ
-*tBodyAccJerkMeanX
-*tBodyAccJerkMeanY
-*tBodyAccJerkMeanZ
-*tBodyAccJerkStdX
-*tBodyAccJerkStdY
-*tBodyAccJerkStdZ
-*tBodyGyroMeanX
-*tBodyGyroMeanY
-*tBodyGyroMeanZ
-*tBodyGyroStdX
-*tBodyGyroStdY
-*tBodyGyroStdZ
-*tBodyGyroJerkMeanX
-*tBodyGyroJerkMeanY
-*tBodyGyroJerkMeanZ
-*tBodyGyroJerkStdX
-*tBodyGyroJerkStdY
-*tBodyGyroJerkStdZ
-*tBodyAccMagMean
-*tBodyAccMagStd
-*tGravityAccMagMean
-*tGravityAccMagStd
-*tBodyAccJerkMagMean
-*tBodyAccJerkMagStd
-*tBodyGyroMagMean
-*tBodyGyroMagStd
-*tBodyGyroJerkMagMean
-*tBodyGyroJerkMagStd
-*fBodyAccMeanX
-*fBodyAccMeanY
-*fBodyAccMeanZ
-*fBodyAccStdX
-*fBodyAccStdY
-*fBodyAccStdZ
-*fBodyAccMeanFreqX
-*fBodyAccMeanFreqY
-*fBodyAccMeanFreqZ
-*fBodyAccJerkMeanX
-*fBodyAccJerkMeanY
-*fBodyAccJerkMeanZ
-*fBodyAccJerkStdX
-*fBodyAccJerkStdY
-*fBodyAccJerkStdZ
-*fBodyAccJerkMeanFreqX
-*fBodyAccJerkMeanFreqY
-*fBodyAccJerkMeanFreqZ
-*fBodyGyroMeanX
-*fBodyGyroMeanY
-*fBodyGyroMeanZ
-*fBodyGyroStdX
-*fBodyGyroStdY
-*fBodyGyroStdZ
-*fBodyGyroMeanFreqX
-*fBodyGyroMeanFreqY
-*fBodyGyroMeanFreqZ
-*fBodyAccMagMean
-*fBodyAccMagStd
-*fBodyAccMagMeanFreq
-*fBodyBodyAccJerkMagMean
-*fBodyBodyAccJerkMagStd
-*fBodyBodyAccJerkMagMeanFreq
-*fBodyBodyGyroMagMean
-*fBodyBodyGyroMagStd
-*fBodyBodyGyroMagMeanFreq
-*fBodyBodyGyroJerkMagMean
-*fBodyBodyGyroJerkMagStd
-*fBodyBodyGyroJerkMagMeanFreq
+* tBodyAccMeanX
+* tBodyAccMeanY
+* tBodyAccMeanZ
+* tBodyAccStdX
+* tBodyAccStdY
+* tBodyAccStdZ
+* tGravityAccMeanX
+* tGravityAccMeanY
+* tGravityAccMeanZ
+* tGravityAccStdX
+* tGravityAccStdY
+* tGravityAccStdZ
+* tBodyAccJerkMeanX
+* tBodyAccJerkMeanY
+* tBodyAccJerkMeanZ
+* tBodyAccJerkStdX
+* tBodyAccJerkStdY
+* tBodyAccJerkStdZ
+* tBodyGyroMeanX
+* tBodyGyroMeanY
+* tBodyGyroMeanZ
+* tBodyGyroStdX
+* tBodyGyroStdY
+* tBodyGyroStdZ
+* tBodyGyroJerkMeanX
+* tBodyGyroJerkMeanY
+* tBodyGyroJerkMeanZ
+* tBodyGyroJerkStdX
+* tBodyGyroJerkStdY
+* tBodyGyroJerkStdZ
+* tBodyAccMagMean
+* tBodyAccMagStd
+* tGravityAccMagMean
+* tGravityAccMagStd
+* tBodyAccJerkMagMean
+* tBodyAccJerkMagStd
+* tBodyGyroMagMean
+* tBodyGyroMagStd
+* tBodyGyroJerkMagMean
+* tBodyGyroJerkMagStd
+* fBodyAccMeanX
+* fBodyAccMeanY
+* fBodyAccMeanZ
+* fBodyAccStdX
+* fBodyAccStdY
+* fBodyAccStdZ
+* fBodyAccMeanFreqX
+* fBodyAccMeanFreqY
+* fBodyAccMeanFreqZ
+* fBodyAccJerkMeanX
+* fBodyAccJerkMeanY
+* fBodyAccJerkMeanZ
+* fBodyAccJerkStdX
+* fBodyAccJerkStdY
+* fBodyAccJerkStdZ
+* fBodyAccJerkMeanFreqX
+* fBodyAccJerkMeanFreqY
+* fBodyAccJerkMeanFreqZ
+* fBodyGyroMeanX
+* fBodyGyroMeanY
+* fBodyGyroMeanZ
+* fBodyGyroStdX
+* fBodyGyroStdY
+* fBodyGyroStdZ
+* fBodyGyroMeanFreqX
+* fBodyGyroMeanFreqY
+* fBodyGyroMeanFreqZ
+* fBodyAccMagMean
+* fBodyAccMagStd
+* fBodyAccMagMeanFreq
+* fBodyBodyAccJerkMagMean
+* fBodyBodyAccJerkMagStd
+* fBodyBodyAccJerkMagMeanFreq
+* fBodyBodyGyroMagMean
+* fBodyBodyGyroMagStd
+* fBodyBodyGyroMagMeanFreq
+* fBodyBodyGyroJerkMagMean
+* fBodyBodyGyroJerkMagStd
+* fBodyBodyGyroJerkMagMeanFreq
 
 ## Activity Labels
 * WALKING (value 1): subject was walking during the test

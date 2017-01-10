@@ -1,4 +1,4 @@
-run_analysis(){
+run_analysis <- function(){
         ## Checks for Required Package loads if installed, installed if not
         if(!is.element("reshape2", installed.packages()[,1])){
               n <- readline(prompt = "This function requires the reshape2 package to be installed. Would you like it installed? 1. Yes 2. No:")
